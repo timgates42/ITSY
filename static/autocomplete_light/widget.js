@@ -278,7 +278,7 @@ yourlabs.Widget.prototype.destroy = function(widget) {
 
 // Get or create or destroy a widget instance.
 //
-// On first call, yourlabsWidget() will instanciate a widget applying all
+// On first call, yourlabsWidget() will instantiate a widget applying all
 // passed overrides.
 // 
 // On later calls, yourlabsWidget() will return the previously created widget

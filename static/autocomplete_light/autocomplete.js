@@ -243,7 +243,7 @@ yourlabs.Autocomplete = function (input) {
 Rather than directly setting up the autocomplete (DOM events etc ...) in
 the constructor, setup is done in this method. This allows to:
 
-- instanciate an Autocomplete,
+- instantiate an Autocomplete,
 - override attribute/methods of the instance,
 - and *then* setup the instance.
  */
